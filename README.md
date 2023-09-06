@@ -4,7 +4,7 @@
 ___
 
 ## Introduction
-This is a microsoft excel project on the sales analysis of **Linda Pizza**, I am analysing their year sales as a data analyst for Dford which is their sole ingredient supplier. The project is aimed at analysing their sales trend for the previous year with in v iew of opening new branches and getting a better market.
+This is a microsoft excel project on the sales analysis of **Linda Pizza**, I am analysing their year sales as a data analyst for Dford which is their sole ingredient supplier. The project is aimed at analysing their sales trend for the year with the view of opening new branches and getting a better market.
 
 ## Problem statement/tasks
 1. How many pizza types contain cheese?
